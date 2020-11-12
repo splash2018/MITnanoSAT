@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.linux": {
-        "PATH": "/home/fuinhagame/.platformio/penv/bin:/home/fuinhagame/.platformio/penv:/home/fuinhagame/.pyenv/shims:/home/fuinhagame/.pyenv/bin:/home/fuinhagame/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/fuinhagame/.dotnet/tools",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
